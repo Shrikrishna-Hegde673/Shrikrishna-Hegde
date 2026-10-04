@@ -1,0 +1,5 @@
+Goal:
+ The main goal of One-Shot Prompting is to help the AI understand and perform a task by providing one example along with the instruction.
+
+Prompt :
+Explain One-Shot Prompting in simple and easy-to-understand language, starting with its definition and purpose in AI. Then, describe how One-Shot Prompting works by using exactly one example to guide the AI. Explain how this single example helps the AI understand and perform the given task more effectively. Next, mention some common applications where One-Shot Prompting can be used. Also, list its main advantages and limitations. After that, provide one suitable example that clearly demonstrates how One-Shot Prompting works.Present the information using clear headings and concise points, and keep the overall explanation well-structured, simple, and easy to understand.

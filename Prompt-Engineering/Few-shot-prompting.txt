@@ -1,0 +1,5 @@
+Goal:
+The main goal of Few-Shot Prompting is to help the AI understand and perform a task by providing a few examples along with the instruction.
+
+Prompt:
+Explain Few-Shot Prompting in simple and easy-to-understand language, including its definition and purpose in AI.Describe how Few-Shot Prompting works by providing a few examples to guide the AI.Explain how multiple examples help the AI understand the expected pattern and produce better responses.Mention some common applications where Few-Shot Prompting can be used.List the main advantages and limitations of Few-Shot Prompting.Give a suitable example that demonstrates how Few-Shot Prompting works using multiple examples.Explain when Few-Shot Prompting is more useful than providing no examples or only one example.Use clear headings and concise points to organize the information.Keep the explanation well-structured, simple, and easy to understand.
