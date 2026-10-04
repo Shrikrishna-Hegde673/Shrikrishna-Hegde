@@ -1,0 +1,5 @@
+Goal:
+The goal is to get the AI to understand and complete a new task directly from the prompt using its existing knowledge.
+
+Prompt:
+Explain Zero-Shot Prompting in simple and easy-to-understand language, starting with its definition and how it works without using examples. Then, explain why Zero-Shot Prompting is useful when working with AI. Next, mention some common applications such as classification, summarization, translation, and question answering. After that, list its main advantages and limitations. Then, give one simple example of a Zero-Shot Prompt to demonstrate how it works. Finally, present the information with clear headings and concise points for better understanding.
