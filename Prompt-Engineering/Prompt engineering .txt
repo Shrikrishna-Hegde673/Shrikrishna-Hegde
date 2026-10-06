@@ -1,5 +1,0 @@
-Goal:
-The main goal of prompt engineering is to create clear and effective instructions (prompts) that help an AI system understand what the user wants and produce accurate, relevant, and useful responses.
-
-Prompt:
-Explain the concept of Prompt Engineering in simple and easy-to-understand language. Define Prompt Engineering and explain how it helps users communicate effectively with AI. Explain why Prompt Engineering is needed when working with AI tools. Mention its importance in getting accurate, relevant, and useful responses. Describe some common applications of Prompt Engineering. Give 2–3 simple real-life examples of effective prompts. Keep the explanation clear, concise, and suitable for a beginner. Use simple language and organize the information with suitable headings or points
